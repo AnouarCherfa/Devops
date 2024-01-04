@@ -15,4 +15,4 @@ job:
         python-version: "3.8"
 
       - name: Say hello
-        run: echo "Hello"
+        run: echo "Hello word"
